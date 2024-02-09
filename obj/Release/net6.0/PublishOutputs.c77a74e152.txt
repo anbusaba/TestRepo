@@ -1,0 +1,11 @@
+D:\Laterals\GitHub Actions\MyMicroservice\MyMicroS\MyMicroservice.exe
+D:\Laterals\GitHub Actions\MyMicroservice\MyMicroS\appsettings.Development.json
+D:\Laterals\GitHub Actions\MyMicroservice\MyMicroS\appsettings.json
+D:\Laterals\GitHub Actions\MyMicroservice\MyMicroS\MyMicroservice.dll
+D:\Laterals\GitHub Actions\MyMicroservice\MyMicroS\MyMicroservice.deps.json
+D:\Laterals\GitHub Actions\MyMicroservice\MyMicroS\MyMicroservice.runtimeconfig.json
+D:\Laterals\GitHub Actions\MyMicroservice\MyMicroS\MyMicroservice.pdb
+D:\Laterals\GitHub Actions\MyMicroservice\MyMicroS\Microsoft.OpenApi.dll
+D:\Laterals\GitHub Actions\MyMicroservice\MyMicroS\Swashbuckle.AspNetCore.Swagger.dll
+D:\Laterals\GitHub Actions\MyMicroservice\MyMicroS\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Laterals\GitHub Actions\MyMicroservice\MyMicroS\Swashbuckle.AspNetCore.SwaggerUI.dll

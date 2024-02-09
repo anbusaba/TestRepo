@@ -1,0 +1,11 @@
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\linux-x64\publish\MyMicroservice
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\linux-x64\publish\appsettings.Development.json
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\linux-x64\publish\appsettings.json
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\linux-x64\publish\MyMicroservice.dll
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\linux-x64\publish\MyMicroservice.deps.json
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\linux-x64\publish\MyMicroservice.runtimeconfig.json
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\linux-x64\publish\MyMicroservice.pdb
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\linux-x64\publish\Microsoft.OpenApi.dll
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

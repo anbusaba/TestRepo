@@ -1,0 +1,64 @@
+C:\Users\sabapathi.shanmugam\MyMicroservice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sabapathi.shanmugam\MyMicroservice\bin\Debug\net6.0\appsettings.json
+C:\Users\sabapathi.shanmugam\MyMicroservice\bin\Debug\net6.0\MyMicroservice.exe
+C:\Users\sabapathi.shanmugam\MyMicroservice\bin\Debug\net6.0\MyMicroservice.deps.json
+C:\Users\sabapathi.shanmugam\MyMicroservice\bin\Debug\net6.0\MyMicroservice.runtimeconfig.json
+C:\Users\sabapathi.shanmugam\MyMicroservice\bin\Debug\net6.0\MyMicroservice.dll
+C:\Users\sabapathi.shanmugam\MyMicroservice\bin\Debug\net6.0\MyMicroservice.pdb
+C:\Users\sabapathi.shanmugam\MyMicroservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sabapathi.shanmugam\MyMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sabapathi.shanmugam\MyMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sabapathi.shanmugam\MyMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\MyMicroservice.csproj.AssemblyReference.cache
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\MyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\MyMicroservice.AssemblyInfoInputs.cache
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\MyMicroservice.AssemblyInfo.cs
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\MyMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\MyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\MyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\scopedcss\bundle\MyMicroservice.styles.css
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\MyMicroservice.csproj.CopyComplete
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\MyMicroservice.dll
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\refint\MyMicroservice.dll
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\MyMicroservice.pdb
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\MyMicroservice.genruntimeconfig.cache
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\ref\MyMicroservice.dll
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.MyMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.build.MyMicroservice.props
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyMicroservice.props
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyMicroservice.props
+C:\Users\sabapathi.shanmugam\MyMicroservice\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\appsettings.Development.json
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\appsettings.json
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\MyMicroservice.exe
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\MyMicroservice.deps.json
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\MyMicroservice.runtimeconfig.json
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\MyMicroservice.dll
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\MyMicroservice.pdb
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Laterals\GitHub Actions\MyMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\MyMicroservice.csproj.AssemblyReference.cache
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\MyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\MyMicroservice.AssemblyInfoInputs.cache
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\MyMicroservice.AssemblyInfo.cs
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\MyMicroservice.csproj.CoreCompileInputs.cache
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\MyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\MyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.MyMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.build.MyMicroservice.props
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyMicroservice.props
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyMicroservice.props
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\staticwebassets.build.json
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\staticwebassets.development.json
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\scopedcss\bundle\MyMicroservice.styles.css
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\MyMicroservice.csproj.CopyComplete
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\MyMicroservice.dll
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\refint\MyMicroservice.dll
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\MyMicroservice.pdb
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\MyMicroservice.genruntimeconfig.cache
+D:\Laterals\GitHub Actions\MyMicroservice\obj\Debug\net6.0\ref\MyMicroservice.dll
